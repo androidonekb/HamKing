@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HamKing Client</string>
+    <string name="start_order">Start order</string>
+    <string name="pickup_order">Pickup order</string>
+    <string name="connection_error">Connection error</string>
+    <string name="full_name">My name:</string>
+    <string name="default_full_name">HamKing customer</string>
+    <string name="credit_card">Credit card:</string>
+    <string name="default_card_number">12345678</string>
+    <string name="choose_protein">Choose protein:</string>
+    <string name="protein_beef">beef</string>
+    <string name="protein_pork">pork</string>
+    <string name="protein_tofu">tofu</string>
+    <string name="protein_none">none</string>
+    <string name="spicy">Spicy:</string>
+    <string name="choose_sauce">Choose sauces:</string>
+    <string name="sauce_ketchup">ketchup</string>
+    <string name="sauce_hot_sauce">hot sauce</string>
+    <string name="sauce_write_sauce">write sauce</string>
+    <string name="prepare_order">Prepare order</string>
+    <string name="invalid_input">Invalid input!</string>
+    <string name="order_error">Order pickup error!</string>
+</resources>

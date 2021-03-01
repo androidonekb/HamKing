@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proteins">
+        <item>beef</item>
+        <item>pork</item>
+        <item>tofu</item>
+        <item>none</item>
+    </string-array>
+</resources>

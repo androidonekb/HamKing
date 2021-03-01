@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sauces">
+        <item>hot sauce</item>
+        <item>write sauce</item>
+        <item>ketchup</item>
+        <item>none</item>
+    </string-array>
+</resources>

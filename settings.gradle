@@ -1,0 +1,4 @@
+include ':server'
+include ':api'
+include ':client'
+rootProject.name = "HamKing"
